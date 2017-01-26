@@ -1,2 +1,2 @@
-# PynGo-
+# PynGo!
 Experimental cloudware framework
